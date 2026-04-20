@@ -1,4 +1,4 @@
-# 🥋 Simulado Definitivo - POO (N1.2)
+# Simulado Definitivo - POO (N1.2)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -40,9 +40,6 @@ Todos os códigos foram testados no **GDB Online** e podem ser compilados localm
 ```bash
 javac questoes/01-livro/*.java
 java questoes.01-livro.DemoLivro
-
-“O código é a lei.” - Cronograma Sensei
-
 
 ### 🛠️ Passo 3: Salvar e dar o Push
 Salve o arquivo no Notepad (Ctrl+S), feche-o e rode os comandos no terminal:
